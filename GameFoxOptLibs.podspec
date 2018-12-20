@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'GameFoxOptmizeLib' => 'gamefoxoptmizelib@gamefox.com' }
-  s.source           = { :git => '/Users/leke-mac-mini/Desktop/demo/GameFoxOptmizedLib/GameFoxOptmizedLib/GameFoxOptLibs/GameFoxOptLibs', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:nice2m/GF.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
