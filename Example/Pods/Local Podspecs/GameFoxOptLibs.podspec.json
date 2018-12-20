@@ -1,0 +1,87 @@
+{
+  "name": "GameFoxOptLibs",
+  "version": "0.1.0",
+  "summary": "pods and other libs of GamefoxCircle ,packaged for optmizing",
+  "description": "pods and other libs of GamefoxCircle ,packaged for optmizing,improve the compiling speed of Xcode.",
+  "homepage": "https://github.com/nice2m/GF",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GameFoxOptmizeLib": "gamefoxoptmizelib@gamefox.com"
+  },
+  "source": {
+    "git": "/Users/leke-mac-mini/Desktop/demo/GameFoxOptmizedLib/GameFoxOptmizedLib/GameFoxOptLibs/GameFoxOptLibs",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GameFoxOptLibs/Classes/**/*",
+  "dependencies": {
+    "YYKit": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "AFNetworking": [
+
+    ],
+    "DateTools": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "RealReachability": [
+
+    ],
+    "FMDB": [
+
+    ],
+    "CocoaLumberjack": [
+
+    ],
+    "Bugly": [
+
+    ],
+    "Toast": [
+      "~> 4.0.0"
+    ],
+    "MBProgressHUD": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "SDWebImage/GIF": [
+
+    ],
+    "FLAnimatedImage": [
+
+    ],
+    "IQKeyboardManager": [
+
+    ],
+    "SDCycleScrollView": [
+      "~> 1.75"
+    ],
+    "TZImagePickerController": [
+
+    ],
+    "TOWebViewController": [
+
+    ],
+    "DZNEmptyDataSet": [
+
+    ],
+    "MLBPasswordTextField": [
+
+    ]
+  }
+}

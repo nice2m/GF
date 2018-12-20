@@ -1,0 +1,6 @@
+framework module Pods_GameFoxOptLibs_Example {
+  umbrella header "Pods-GameFoxOptLibs_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

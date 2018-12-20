@@ -1,0 +1,6 @@
+framework module GameFoxOptLibs {
+  umbrella header "GameFoxOptLibs-umbrella.h"
+
+  export *
+  module * { export * }
+}

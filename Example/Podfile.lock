@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GameFoxOptLibs (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GameFoxOptLibs (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  GameFoxOptLibs:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  GameFoxOptLibs: d714015700023666944e1683e0dbb35b5b62f630
+
+PODFILE CHECKSUM: 10ac871fd90f1654c84d5ee7c99a057c0c9a6207
+
+COCOAPODS: 1.5.3
