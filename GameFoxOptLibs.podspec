@@ -51,7 +51,7 @@ Pod::Spec.new do |s|
   s.dependency 'FMDB'
   s.dependency 'CocoaLumberjack' #log 工具
   
-  s.dependency 'Bugly'
+  #s.dependency 'Bugly'
   s.dependency 'Toast', '~> 4.0.0'
   s.dependency 'MBProgressHUD'
   s.dependency 'MJRefresh'
